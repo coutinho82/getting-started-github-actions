@@ -39,6 +39,6 @@ jobs:
           python3 --version
           echo
           echo is git installed?
-          git -- version
+          git --version
           
           
